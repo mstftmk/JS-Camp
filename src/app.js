@@ -1,6 +1,6 @@
 console.log("Merhaba!")
 
-//JS type safe değildir. Başta ne tanımladıysan öyle gideceksin değildir.
+//JS type safe değildir. yani değişken tanımlarken bunun ne değeri olduğunu belirtmiyoruz. Java'da belirtiyoruz.
 
 var dolarDun = 9.20 //mesela bu console.log dan sonra tanımlanmış olsaydı, undefined olarak gözükürdü sayfada
 var dolarBugun = 9.30 //ya da var dolarDun yazıp yanına değer vermeseydik, yine undefined
